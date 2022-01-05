@@ -6,6 +6,9 @@
     width: 80%;
     height: 600px;
 }
+.ace_editor, .ace_editor *{
+font-family : monospace !important;font-size: 18px !important;direction: ltr !important;text-align: left !important;
+}
   </style>
     
 <center>
